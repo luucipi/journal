@@ -23,3 +23,4 @@ def newEntry(nomArchivo, fechaHoy):
     nomArchivo.write(input("¿Cómo te sientes hoy?: "))		# pide al usuario el contenido de la entrada y lo añade
     print("Tu entrada se guardó correctamente.")			# muestra un mensaje confirmando el éxito de la tarea
     nomArchivo.write("\n" + "-"*50 + "\n")					# deja un separador para que se distinga una entrada de otra
+    #ola esto se subio desde la rama mejoraaaaaaaaaas
